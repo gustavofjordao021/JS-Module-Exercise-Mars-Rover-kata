@@ -5,5 +5,5 @@
 <p>Developer: Gustavo Ferreira Jordao</p>
 <p>Contact: gustavo.jordao021@gmail.com | @gustavofjordao021</p>
 <p>Company: Ironhack - Miami</p>
-<p>Date: October 27th - 2019</p>
+<p>Date: October 4th - 2019</p>
 <p>Version: 1.0</p>
